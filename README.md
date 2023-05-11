@@ -7,7 +7,7 @@ numbers.add(1); numbers.add(-10);
 numbers.add(22); 
         
 for (Integer number : numbers) {            
-        System.out.println(number);
+System.out.println(number);
         }
 
     }
