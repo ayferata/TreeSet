@@ -8,7 +8,6 @@ numbers.add(22);
         
 for (Integer number : numbers) {            
 System.out.println(number);
-        }
-
-    }
+     }
+  }
 }
